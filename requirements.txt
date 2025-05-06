@@ -1,3 +1,4 @@
 pinecone
 openai
 datetime
+mistralai=1.7.0
