@@ -1,5 +1,5 @@
 # DataStorage_TaideMed
-## Run requirements file: 
+## Run requirements file
 ```
 pip install -r requirements.txt
 ```
