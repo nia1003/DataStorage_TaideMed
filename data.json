@@ -1,0 +1,18 @@
+[
+    {
+      "text": "Large language models can be guided using prompt engineering techniques. Personality prompts can steer the tone and style of responses."
+    },
+    {
+      "text": "Vector databases like Pinecone support fast similarity search across high-dimensional embeddings. They are commonly used in retrieval-augmented generation."
+    },
+    {
+      "text": "Embedding APIs convert text into numerical vectors, which allow semantic comparison using cosine similarity or other distance metrics."
+    },
+    {
+      "text": "By chunking long documents into smaller segments, each piece can be embedded and stored separately for more granular search and retrieval."
+    },
+    {
+      "text": "Querying an index involves embedding the input and finding the most similar vectors in the vector store. This process powers modern semantic search."
+    }
+  ]
+  
